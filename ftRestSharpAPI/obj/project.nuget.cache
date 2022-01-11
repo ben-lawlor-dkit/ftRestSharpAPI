@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWjote6Qy1LEmdfC8mPjOBBPYTCsxcd1F8ndAu2sIq8GmhRndPPbqQl6xkZuKDcCQkXuzOcU/sz1t6uO9bk0Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ben\\Desktop\\ftRestSharpAPI\\ftRestSharpAPI\\ftRestSharpAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

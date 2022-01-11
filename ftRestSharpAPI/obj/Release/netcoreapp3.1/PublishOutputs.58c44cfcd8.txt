@@ -1,0 +1,8 @@
+C:\Users\Ben\Desktop\ftRestSharpAPI\ftRestSharpAPI\bin\Release\netcoreapp3.1\publish\ftRestSharpAPI.exe
+C:\Users\Ben\Desktop\ftRestSharpAPI\ftRestSharpAPI\bin\Release\netcoreapp3.1\publish\ftRestSharpAPI.dll
+C:\Users\Ben\Desktop\ftRestSharpAPI\ftRestSharpAPI\bin\Release\netcoreapp3.1\publish\ftRestSharpAPI.deps.json
+C:\Users\Ben\Desktop\ftRestSharpAPI\ftRestSharpAPI\bin\Release\netcoreapp3.1\publish\ftRestSharpAPI.runtimeconfig.json
+C:\Users\Ben\Desktop\ftRestSharpAPI\ftRestSharpAPI\bin\Release\netcoreapp3.1\publish\ftRestSharpAPI.pdb
+C:\Users\Ben\Desktop\ftRestSharpAPI\ftRestSharpAPI\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\Ben\Desktop\ftRestSharpAPI\ftRestSharpAPI\bin\Release\netcoreapp3.1\publish\RestSharp.dll
+C:\Users\Ben\Desktop\ftRestSharpAPI\ftRestSharpAPI\bin\Release\netcoreapp3.1\publish\DragAssembly.dll
