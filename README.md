@@ -1,6 +1,6 @@
 # ftRestSharpAPI
 
-A sample GUI using Rest API calls and responses to display live soccer league tables in a slick borderless Windows Form Application.
+A sample GUI using Rest API calls and responses to display live soccer scores, league tables, fixtures and top scorers in a slick borderless Windows Form Application.
 
 API calls and response deserialisation is found in ftRestSharpAPI\ftAppForm.cs.
 
